@@ -1,0 +1,50 @@
+{
+  "app_description": {
+    "message": "Use native tab discard method to automatically reduce memory usage of inactive tabs"
+  },
+  "options_discarding_options": {
+    "message": "Discarding options"
+  },
+  "options_period01": {
+    "message": "Discard inactive tabs after (in seconds) (use zero second to disable auto tab discarding) "
+  },
+  "options_period02": {
+    "message": "when the number of inactive tabs exceeds "
+  },
+  "options_url_based": {
+    "message": "Only discard the following inactive hostnames"
+  },
+  "options_tab_context": {
+    "message": "Display discarding items in the \"tab\" context menu (if supported)"
+  },
+  "options_page_context": {
+    "message": "Display discarding items in the \"page\" context menu"
+  },
+  "options_favicon": {
+    "message": "Change favicon of discarded tabs"
+  },
+  "options_discarding_conditions": {
+    "message": "Discarding conditions"
+  },
+  "options_audio": {
+    "message": "Do not discard a tab when media is playing"
+  },
+  "options_pinned": {
+    "message": "Do not discard a tab when it is pinned"
+  },
+  "options_form": {
+    "message": "Do not discard a tab when form changes are not yet submitted"
+  },
+  "options_battery": {
+    "message": "Do not discard tabs when computer is connected to a power source"
+  },
+  "options_online": {
+    "message": "Do not discard tabs when there is no internet connection and tab is not cached"
+  },
+  "options_notification_permission": {
+    "message": "Do not discard a tab if it can display desktop notifications"
+  },
+  "options_exceptions": {
+    "message": "Exceptions"
+  },
+  "options_whitelist": {
